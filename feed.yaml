@@ -1,0 +1,26 @@
+- date: 2017-03-15
+
+  title:
+    text: Newsletter Opt-in
+    link: http://help.friendbuy.com/what-s-new/release-updates/10300-march-15-2017
+
+  description: |
+    Building an email list for your newsletter is now made easy with Friendbuy’s new Newsletter Opt-In feature. When a referrer is sharing through a Friendbuy Referral and Sharing widget, they can indicate that they would like to be included in your newsletter by selecting the “Newsletter” box.
+
+- date: 2017-03-02
+
+  title:
+    text: Coupon Based Attribution
+    link: http://help.friendbuy.com/what-s-new/release-updates/10200-march-2-2017
+
+  description: |
+    The feature allows for automatic association of a coupon code with a referral so that attribution of the conversion to the referrer can be made with just the coupon code in cases where a referee uses the coupon code on a different device or browser without the tracking cookie present.
+
+- date: 2017-03-02
+
+  title:
+    text: Coupon Offer Validation of Email Addresses
+    link: http://help.friendbuy.com/what-s-new/release-updates/10200-march-2-2017
+
+  description: |
+    A new optional fraud prevention measure is integrated into email capture widgets for campaigns that are configured to distribute a coupon code via email.
