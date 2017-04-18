@@ -1,11 +1,65 @@
-- date: 2017-04-12
+- date: 2017-04-18
 
   title:
-    text: What's New is New
-    link: http://help.friendbuy.com/what-s-new/release-updates/10300-march-15-2017
+    text: Analytics for share reminder emails
+    link: http://help.friendbuy.com/what-s-new/release-updates/10400-april-18-2017
 
   description: |
-    Oh so meta, what's new is what's new today!
+    Gain deeper understanding of your email sharing channel with analytics showing the effectiveness of initial email shares vs reminder emails.
+
+- date: 2017-04-18
+
+  title:
+    text: What’s New feed for product improvements
+    link: http://help.friendbuy.com/what-s-new/release-updates/10400-april-18-2017
+
+  description: |
+    Find out about recently released features and enhancements in the What’s New feed located in the upper-right hand of the application.
+
+- date: 2017-04-18
+
+  title:  
+    text: Type field added to conversion API and webhook data
+    link: http://help.friendbuy.com/what-s-new/release-updates/10400-april-18-2017
+
+  description: |
+    A new Type field helps you to easily differentiate conversions originating from a share, reminder email, customer personal url, or email personal url.
+
+- date: 2017-04-06
+
+  title:
+    text: Improvements to the Reward report
+    link: http://help.friendbuy.com/what-s-new/release-updates/10303-april-6-2017
+
+  description: |
+    Three additional data points included in the exported Reward report can be used to validate the efficacy of your advocate reward process and status. 
+
+- date: 2017-04-03
+
+  title:
+    text: API endpoint to retrieve newsletter email addresses
+    link: http://help.friendbuy.com/what-s-new/release-updates/10302-april-3-2017
+
+  description: |
+    A new API endpoint can be used to return a unique list of email addresses for your customers that have requested to receive your newsletter via Friendbuy’s Newsletter Opt-In feature.
+
+- date: 2017-04-03
+
+  title:
+    text: coupon_code field added to purchase API and webhook data
+    link: http://help.friendbuy.com/what-s-new/release-updates/10302-april-3-2017
+
+  description: |
+    If a coupon code is passed along with the purchase data that you provided to Friendbuy, the value will be displayed in the coupon_code field.
+
+- date: 2017-03-22
+
+  title:
+    text: 1.03.01 maintenance release
+    link: http://help.friendbuy.com/what-s-new/release-updates/10301-march-22-2017
+
+  description: |
+    We just deployed a maintenance release with a handful of bug fixes. Check out the details on what has been fixed in the release notes.
 
 - date: 2017-03-15
 
@@ -14,22 +68,31 @@
     link: http://help.friendbuy.com/what-s-new/release-updates/10300-march-15-2017
 
   description: |
-    Building an email list for your newsletter is now made easy with Friendbuy’s new Newsletter Opt-In feature. When a referrer is sharing through a Friendbuy Referral and Sharing widget, they can indicate that they would like to be included in your newsletter by selecting the “Newsletter” box.
+    Building an email list for your newsletter is now made easy with Friendbuy’s new Newsletter Opt-In feature. When an Advocate is sharing through a Friendbuy Referral and Sharing widget, they can indicate that they would like to be included in your newsletter by selecting the “Newsletter” box.
 
 - date: 2017-03-02
 
   title:
-    text: Coupon Based Attribution
+    text: Coupon code attribution
     link: http://help.friendbuy.com/what-s-new/release-updates/10200-march-2-2017
 
   description: |
-    The feature allows for automatic association of a coupon code with a referral so that attribution of the conversion to the referrer can be made with just the coupon code in cases where a referee uses the coupon code on a different device or browser without the tracking cookie present.
+    The feature allows for automatic association of a coupon code with a referral so that attribution of the conversion to the Advocate can be made with just the coupon code in cases where a Friend uses the coupon code on a different device or browser without the tracking cookie present.
 
 - date: 2017-03-02
 
   title:
-    text: Coupon Offer Validation of Email Addresses
+    text: Coupon offer validation of email addresses
     link: http://help.friendbuy.com/what-s-new/release-updates/10200-march-2-2017
 
   description: |
     A new optional fraud prevention measure is integrated into email capture widgets for campaigns that are configured to distribute a coupon code via email.
+
+- date: 2017-03-02
+
+  title:
+    text: Send a reminder for an email share 
+    link: http://help.friendbuy.com/what-s-new/release-updates/10200-march-2-2017
+
+  description: |
+    Advocates now have a quick and easy way to remind their friends that they have a referral waiting for them.  When sharing through a Referral and Sharing widget, all they have to do is check the “Reminder” box. 
