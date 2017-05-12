@@ -1,3 +1,9 @@
+- date: 2017-05-17
+
+  title:
+    text: A new GET /campaign endpoint allows you to retrieve a list of all campaigns, along with details such as whether the campaign is published, archived, a champion or variant, and the creation date
+    link: http://help.friendbuy.com/what-s-new/release-updates/10403-may-17-2017
+
 - date: 2017-04-21
 
   title:
