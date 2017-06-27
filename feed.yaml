@@ -1,3 +1,12 @@
+- date: 2017-06-27
+
+  title:
+    text: Integration with Chargebee
+    link: http://help.friendbuy.com/what-s-new/release-updates/10500-june-27-2017
+
+  description: |
+    You can now integrate your referral program with Chargebee’s subscription billing product. Add Friendbuy’s sharing widgets to your Chargebee hosted checkout page and reward advocates by automatically depositing credit directly into their Chargebee account.
+
 - date: 2017-05-12
 
   title:
