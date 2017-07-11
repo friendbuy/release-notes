@@ -1,3 +1,12 @@
+- date: 2017-07-10
+
+  title:
+    text: Enhanced Fraud Checks
+    link: http://help.friendbuy.com/what-s-new/release-updates/10501-july-10-2017
+
+  description: |
+    New triggers for automatically blocking rewards and redirecting self referrals have been added to campaign-level fraud checks. This includes an option for detection based on combining IP address and user agent.
+
 - date: 2017-06-27
 
   title:
