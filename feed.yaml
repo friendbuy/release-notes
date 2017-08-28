@@ -1,3 +1,12 @@
+- date: 2017-08-27
+
+  title:
+    text: Referral Code Blacklist
+    link: http://help.friendbuy.com/what-s-new/release-updates/10602-august-28-2017
+
+  description: |
+    To add another layer of protection to your referral program and prevent behavior outside of your terms of use, you can now blacklist referral codes.  Clicks on referral links with a blacklisted code will be redirected to an offer not valid page.
+
 - date: 2017-08-01
 
   title:
